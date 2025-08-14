@@ -9,7 +9,7 @@
 - This is a logical database object that points to a physical directory on the server's file system.
 - The user must have read and write permissions to this physical directory.
   
- ## create directory and give permission:
+ ## Create Directory and give permission:
 
  ```create directory and give permission
 
